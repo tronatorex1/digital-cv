@@ -1,5 +1,5 @@
-### digital-cv
-# Alejandro Vassallo
+digital-cv
+# **Alejandro Vassallo**
 ## Computer Science/Programmer and Developer/Systems Support 
 
 Emails:		tronatore@yahoo.com ; tronatore@gmail.com
