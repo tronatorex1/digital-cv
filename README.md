@@ -2,7 +2,7 @@ digital-cv
 # **Alejandro Vassallo**
 ## Computer Science/Programmer and Developer/Systems Support 
 
-Emails:		tronatore@yahoo.com ; tronatore@gmail.com
+Emails:		tronatore@yahoo.com
 
 Phone:		+353831458952
 
