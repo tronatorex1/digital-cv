@@ -1,4 +1,3 @@
-digital-cv
 # **Alejandro Vassallo**
 ## Computer Science/Programmer and Developer/Systems Support 
 
