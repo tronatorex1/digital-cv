@@ -13,27 +13,26 @@ Goal-motivated and result-driven professional, with the ability to teamwork, com
 ### Experience:
 
 
-Programming & Automation Specialist and Second Level of Support (Oct. 2017 – Jun. 2023)
+#### Programming & Automation Specialist and Second Level of Support (Oct. 2017 – Jun. 2023)
   ROCHE (roche.com) (Powered by TCS Consultancy Services)
   
 I have achieved many automation solutions to provide automatic reconciliation and data extracting from Secret Management Platforms. I served as an SME individual by assisting ROCHE’s global employee at solving various types of incidents. I created reports based on ticketing systems and particular requests on RDBMSs daily. I programmed and automated administration tasks via shell scripting/python/PowerShell programming languages, providing information on identities and clients around the globe. I acted as a designer/programmer helping and assessing the daily operation on solving issues by programming fast and low-cost solutions and alleviating employees’ workload. Finally, there are many other tasks involved in this position related to ITIL and IT good practices that leverage compliance rules and regulations in the client’s operation.
 
-Oracle’s Functional/Technical/Middleware/Test and Quality Specialist (Jul. 2004 – Aug. 2017)
+#### Oracle’s Functional/Technical/Middleware/Test and Quality Specialist (Jul. 2004 – Aug. 2017)
   FARMATODO (www.farmatodo.com.ve) 
   
 I have improved stability (71%) of nearly 15k batch processes executed, required for the Oracle’s retail Suite automation platform to peak-perform and provide on-time data to operations for about 138 stores around the country. Supported batch processing operations based on Oracle Database Administrator role. Resolved about 65% of all second level incidents related to the day-to-day stores operations issues by collecting and executing action plans aiming to provide continuity to the company’s operations, particularly 24/7. Automated required processes using Unix shell scripting and technologies used in the Oracle Retail Suite implementation. Administrated and monitored several control applications, debugged and documented batch processes and extensive troubleshooting information that supported Retail operations in production. I was Head of Operations Monitoring department for at least 8 non-stop years, based on a 13–specialist team.
 
-Jr. Java Developer: NOC’s Performance Statistical Studies (Aug. 2001 – Jun. 2004)
+#### Jr. Java Developer: NOC’s Performance Statistical Studies (Aug. 2001 – Jun. 2004)
   DIGITEL Telecommunications (www.digitel.com.ve) 
   
 I was leader of an 11-programer farm aiming to ease the daily and nightly NOKIA’s and Siemens’ batch statistical operations and to provide automation and operation’s quality information carried out by the Implementation and Operations (NOC) personnel, to decrease workload and predict possible operations deviations due to obsolete or damaged TRX/BTS/BSC. I managed databases for Nokia’s/Siemens’ traffic statistics, analysed performance indicators (KPIs) of the NOC and contributed in the KPIs co-designing for basic indicators of the daily operations. 
 
-Jr. Java Architect and Application Developer (Jun. 2000 – Jul. 2001)
+#### Jr. Java Architect and Application Developer (Jun. 2000 – Jul. 2001)
   MOVILNET (www.movilnet.com.ve)
 I have created 4 Customer Database Systems that collected information to create tickets and followed up on the first customer support level support line, to provide CIO and CTO insights on the operations’ quality. I created applications using Java (applets) and various other developments tools/languages for collecting customers’ information and batch programs for invoking procedures in Oracle’s SQL and PL/SQL to track the NOC’s performance.
 
-
-Lotus Notes Consultant (Mar. 1998 – Jun. 2000)
+#### Lotus Notes Consultant (Mar. 1998 – Jun. 2000)
   Grupo Bekesantos (www.bekesantos.com.ve) 
   
 I have designed applications to control lost assets and managed clients’ information, specifically for a major national oil company. Developed several applications related to CMDB and CIs with Lotus Notes R4.X and R5. I have developed and implemented administration applications for billing and other projects with Lotus Notes R4.
