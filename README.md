@@ -151,9 +151,15 @@ h2sps)
 03/2008: Fundamentals of the Java Programming Language Sun Microsystems
 
 11/2003: Quality Services. Codado Consultor
+
 10/2002: Fundamentals of the UNIX Systems HP Venezuela
+
 04/2002: Oracle’s DBA Enterprise: Backup & Recovery Oracle University Venezuela
+
 11/2001: Oracle’s DBA Enterprise: Performance & Tuning Oracle University Venezuela
+
 10/2001: Oracle’s SQL Statement: Tuning Workshop Oracle University Venezuela
+
 10/2001: Oracle’s DBA Enterprise: Architecture & Administration Oracle University Venezuela
+
 09/1999: Project Management. Codado Consultor 
